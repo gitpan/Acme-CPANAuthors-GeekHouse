@@ -2,7 +2,7 @@ package Acme::CPANAuthors::GeekHouse;
 use strict;
 use warnings;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 use Acme::CPANAuthors::Register (
     KENTARO => 'Kentaro Kuribayashi',
@@ -49,8 +49,6 @@ and let me know it.
 http://ghp.g.hatena.ne.jp/
 
 =item * Acme::CPANAuthors
-
-Desctiption for the item above.
 
 =back
 
